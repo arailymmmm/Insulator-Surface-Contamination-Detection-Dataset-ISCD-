@@ -25,5 +25,11 @@ labels/ — contains the corresponding annotations in VOC2007 format, labeling i
 
 The dataset was developed as part of research on automated surface contamination detection of high-voltage insulators, conducted to enhance reliability and safety in power transmission systems.
 
+Public subset available here: 500 representative images
+
+Image format: .jpg
+
+Annotation format: YOLO .txt files (each image has a corresponding label file)
+
 If you have any questions regarding this dataset, please contact Arailym Serikbay at arailymserikbay@gmail.com
 .
