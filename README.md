@@ -5,7 +5,7 @@ It supports research in computer vision and machine learning for automatic conta
 
 ---
 
-### 📘 Dataset Overview
+### Dataset Overview
 - **Categories (6):** Clean, Snow, Dust, Wet Dust, Cement Powder, Salt  
 - **Image format:** `.jpg`  
 - **Annotation format:** YOLO `.txt` (VOC-style bounding boxes)  
@@ -16,7 +16,6 @@ It supports research in computer vision and machine learning for automatic conta
 ---
 
 
-### 📬 Contact
 For questions or collaborations, please contact:  
 **Arailym Serikbay** — [arailymserikbay@gmail.com](mailto:arailymserikbay@gmail.com)
 
