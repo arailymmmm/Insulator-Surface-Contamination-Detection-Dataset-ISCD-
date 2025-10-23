@@ -1,6 +1,6 @@
 # Insulator Surface Contamination Detection Dataset (ISCD)
 
-The **ISCD dataset** provides visible-light images of high-voltage insulators with various surface contamination types.  
+The **ISCD dataset** provides images of high-voltage insulators with various surface contamination types.  
 It supports research in computer vision and machine learning for automatic contamination classification and condition assessment of outdoor insulators.
 
 ---
