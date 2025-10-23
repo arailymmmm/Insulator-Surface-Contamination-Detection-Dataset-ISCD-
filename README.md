@@ -17,7 +17,7 @@ It supports research in computer vision and machine learning for automatic conta
 
 
 For questions or collaborations, please contact:  
-**Arailym Serikbay** — [arailymserikbay@gmail.com](mailto:arailym.serikbay@nu.edu.kz)
+**Arailym Serikbay** — [arailym.serikbay@nu.edu.kz](mailto:arailym.serikbay@nu.edu.kz)
 
 ---
 
